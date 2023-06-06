@@ -14,8 +14,4 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 This document is used for ETO5513 Module 5.
 
-Forked repo text  here
-
-original repo next text
-
 This is an extra sentence in the file. 
